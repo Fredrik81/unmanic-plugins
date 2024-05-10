@@ -25,7 +25,7 @@
                 "on_worker_process": 0
             },
             "tags": "video,encoder,ffmpeg,intel,library file test",
-            "version": "0.0.5"
+            "version": "0.0.1"
         }
     ]
 }
