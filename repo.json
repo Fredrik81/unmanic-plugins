@@ -14,7 +14,7 @@
                 2
             ],
             "description": "Ensure all video streams are encoded with the AV1 codec using the av1_qsv encoder.",
-            "icon": "https://raw.githubusercontent.com/Josh5/unmanic.plugin.encoder_video_hevc_qsv/master/icon.png",
+            "icon": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/main/encoder_video_av1_qsv/icon.png",
             "id": "encoder_video_av1_qsv",
             "name": "Video Encoder AV1 - av1_qsv (Intel)",
             "platform": [
