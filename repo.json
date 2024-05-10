@@ -3,8 +3,8 @@
         "id": "repository.Fredrik81",
         "name": "Fredrik81 Repo",
         "icon": "",
-        "repo_data_directory": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/repo/",
-        "repo_data_url": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/repo/repo.json"
+        "repo_data_directory": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/main/",
+        "repo_data_url": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/main/repo.json"
     },
     "plugins": [
         {
