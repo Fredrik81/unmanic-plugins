@@ -341,9 +341,12 @@ class PluginStreamMapper(StreamMapper):
         self.settings = settings
 
     def test_stream_needs_processing(self, stream_info: dict):
+        logger.debug("Video type is '{}' and we require av1".format(stream_info.get('codec_name').lower()))
         if stream_info.get('codec_name').lower() in self.image_video_codecs:
+            logger.debug("Is image!")
             return False
         elif stream_info.get('codec_name').lower() in ['av1']:
+            logger.debug("Is already av1")
             return False
         return True
 
