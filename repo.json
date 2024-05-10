@@ -1,0 +1,31 @@
+{
+    "repo": {
+        "id": "repository.Fredrik81",
+        "name": "Fredrik81 Repo",
+        "icon": "",
+        "repo_data_directory": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/repo/",
+        "repo_data_url": "https://raw.githubusercontent.com/Fredrik81/unmanic-plugins/repo/repo.json"
+    },
+    "plugins": [
+        {
+            "author": "Fredrik81",
+            "compatibility": [
+                1,
+                2
+            ],
+            "description": "Ensure all video streams are encoded with the AV1 codec using the av1_qsv encoder.",
+            "icon": "https://raw.githubusercontent.com/Josh5/unmanic.plugin.encoder_video_hevc_qsv/master/icon.png",
+            "id": "encoder_video_av1_qsv",
+            "name": "Video Encoder AV1 - av1_qsv (Intel)",
+            "platform": [
+                "all"
+            ],
+            "priorities": {
+                "on_library_management_file_test": 99,
+                "on_worker_process": 0
+            },
+            "tags": "video,encoder,ffmpeg,intel,library file test",
+            "version": "0.0.5"
+        }
+    ]
+}
