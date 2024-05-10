@@ -27,12 +27,12 @@ FFmpeg docs refer to this value as '-max_muxing_queue_size'
 #### <span style="color:blue">Encoder quality preset</span>
 Select the quality profile for the QSV encoder to use.
 - [Intel Quicksync FFmpeg Whitepaper](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/cloud-computing-quicksync-video-ffmpeg-white-paper.pdf)
-- [FFmpeg Preset](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset)
+- [FFmpeg Preset](https://trac.ffmpeg.org/wiki/Encode/AV1#Presetsandtunes)
 
 
 #### <span style="color:blue">Tune for a particular type of source or situation</span>
 Tune the output settings based on the specifics of your input.
-- [FFmpeg Tune](https://trac.ffmpeg.org/wiki/Encode/H.264#Tune)
+- [FFmpeg Tune](https://trac.ffmpeg.org/wiki/Encode/AV1#Presetsandtunes)
 
 
 #### <span style="color:blue">Encoder ratecontrol method</span>
