@@ -2,6 +2,9 @@
 This is a custom Unmanic repository where i publish plugins i create/modify and use myself.\
 Feel free to use, make issues and send PR's with updates etc.
 
+## Current Plugin list
+- Intel AV1 QSV encoder
+
 ## To install the repo
 1. Go to settings
 2. Click Plugins
